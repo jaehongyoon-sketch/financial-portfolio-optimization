@@ -6,8 +6,8 @@ market data.
 
 The main question I wanted to explore was:
 
-> Can portfolio optimization improve risk-adjusted performance compared with
-> a simple equal-weight portfolio and a broad-market benchmark?
+Can portfolio optimization improve risk-adjusted performance compared with
+a simple equal-weight portfolio and a broad-market benchmark?
 
 ---
 
