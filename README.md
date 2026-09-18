@@ -228,6 +228,5 @@ financial-portfolio-optimization/
 │   ├── buy_hold_vs_rebalancing_drawdown.png
 │   ├── transaction_cost_sensitivity.png
 │   ├── walk_forward_returns.png
-│   └── walk_forward_sharpe.png
 ├── src/
 └── README.md
